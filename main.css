@@ -1,0 +1,27 @@
+body{
+    background: #14DDC2;
+}
+header{
+    background: #14C8DD;
+}
+
+.timeline-horizontal .timeline-dots li{
+    width: 80px !important;
+}
+
+.timeline-horizontal .timeline-dots-wrap {
+    
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.timeline-item{
+    height: 500px !important;
+}
